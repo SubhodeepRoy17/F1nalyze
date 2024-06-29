@@ -1,7 +1,7 @@
 # F1nalyze
 # HistGradientBoostingRegressor Model for Formula 1 Prediction
 
-![Formula 1](https://www.kaggle.com/competitions/82253/images/header)
+![Formula 1](file:///C:/Users/subho/Desktop/F1analyse/F1analyse.jpg.bmp)
 
 This notebook demonstrates the use of `HistGradientBoostingRegressor` from Scikit-learn for predicting Formula 1 race positions based on various features. It includes data preprocessing, model training, hyperparameter tuning, and submission file creation.
 
